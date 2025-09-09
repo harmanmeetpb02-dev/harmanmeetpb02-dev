@@ -1,16 +1,55 @@
-## Hi there 👋
+# 🌟 Hey there! I'm [Harmanmeet singh] 🌟  
 
-<!--
-**harmanmeetpb02-dev/harmanmeetpb02-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my corner of GitHub!  
+I'm a **Full Stack Web Developer in the making** 🚀 currently learning at **Sheryians Coding School**.  
+I love writing code, debugging bugs, and of course... cracking jokes 😂  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me  
+- 🌱 Currently Learning **Full Stack Web Development @ Sheryians**  
+- 😎 I enjoy **coding + making things fun**  
+- 🤪 People say I’m funny… I say I just debug life with console.log!  
+- 🎯 Goal: Become a Pro Developer & create amazing projects  
+- 📬 Reach me at: **harmanmeetpb02@gmail.com**  
+
+---
+
+## 🚀 Skills & Tech  
+- **Languages:** HTML, CSS, JavaScript, C, C++  
+- **Frontend:** React, Bootstrap, Tailwind CSS  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB, MySQL  
+
+---
+
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight)  
+
+---
+
+## 🏆 LeetCode Stats  
+![LeetCode Stats](https://leetcard.jacoblin.cool/YourLeetCodeUsername?theme=dark&font=Roboto&ext=activity)  
+
+---
+
+## 🤝 Connect with Me  
+- 🐦 [Twitter](https://twitter.com/coderxplorer1)  
+- 📷 [Instagram](https://instagram.com/harman__23)  
+
+---
+
+## 🛠️ Technologies & Tools  
+![HTML](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white&style=for-the-badge)  
+![CSS](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white&style=for-the-badge)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=for-the-badge)  
+![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white&style=for-the-badge)  
+![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white&style=for-the-badge)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-darkgreen?logo=mongodb&logoColor=white&style=for-the-badge)  
+![Git](https://img.shields.io/badge/-Git-black?logo=git&logoColor=orange&style=for-the-badge)  
+
+---
+
+## 🎵 Let’s Dance!  
+_"Code, Coffee, and a little bit of Comedy keeps me going!"_ ☕💻😄  
