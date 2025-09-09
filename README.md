@@ -51,5 +51,5 @@ I love writing code, debugging bugs, and of course... cracking jokes 😂
 
 ---
 
-## 🎵 Let’s Dance!  
+## Lets coding
 _"Code, Coffee, and a little bit of Comedy keeps me going!"_ ☕💻😄  
