@@ -25,7 +25,7 @@ I love writing code, debugging bugs, and of course... cracking jokes 😂
 
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harmanmeetpb02-dev&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight)  
+
 
 ---
 
