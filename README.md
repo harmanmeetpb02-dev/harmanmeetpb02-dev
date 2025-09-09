@@ -29,10 +29,6 @@ I love writing code, debugging bugs, and of course... cracking jokes 😂
 
 ---
 
-## 🏆 LeetCode Stats  
-![LeetCode Stats](https://leetcard.jacoblin.cool/YourLeetCodeUsername?theme=dark&font=Roboto&ext=activity)  
-
----
 
 ## 🤝 Connect with Me  
 - 🐦 [Twitter](https://twitter.com/coderxplorer1)  
